@@ -1,0 +1,27 @@
+.Emaillist {
+  background-color: #f6f3f87a;
+  flex: 1;
+  overflow: scroll;
+}
+.Email_settings {
+  padding-right: 20px;
+  padding-left: 20px;
+  position: sticky;
+  top: 0;
+  background-color: #eae3f0;
+  border-bottom: 1px solid whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  z-index: 999;
+}
+.Email_settings_right {
+}
+.email_Listing_Nav {
+  display: flex;
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid #eae3f0;
+  background-color: white;
+  align-items: center;
+  z-index: 999;
+}

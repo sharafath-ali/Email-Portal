@@ -1,0 +1,46 @@
+.header{
+    background-color: blueviolet;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid whitesmoke;
+    color:rgba(42, 4, 77, 0.793);
+}
+.header_left_mail{
+ margin-top: 12px;
+ margin-left: 20px;
+}
+
+.header_left {
+ margin-left: 1.3%;
+ display: flex;
+ 
+}
+.header_middle{
+    margin: .5%;
+    display: flex;
+    flex: 0.37;
+    background-color:  whitesmoke;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.input-search{
+    width:100%;
+    height:25px;
+    padding-left: 15px;
+    border:none;
+    background-color: transparent;
+    
+
+}
+
+.search-dropdown {
+    margin-left: 3px;
+}
+.header_right{
+   display: flex;
+   color: whitesmoke;
+   margin-right: 2%;
+}
+

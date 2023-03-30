@@ -1,0 +1,14 @@
+.Listing{
+    display: flex;
+    padding: 4px 70px 4px 70px;
+    align-items: center;
+    cursor: pointer;
+}
+.Listing p{
+    padding-top:15px;
+    margin-left: 15px;
+}
+.Listing:hover{
+    background-color: rgb(221, 223, 224);
+    border-width: 3px !important;
+}
